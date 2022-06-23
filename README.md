@@ -16,8 +16,8 @@
 	```
 
 2. Secure your files with root accesible :
->- sudo chown root:root /path/to/application
->- sudo chmod 700 /path/to/application
+>- sudo chown root:root -R /path/to/application
+>- sudo chmod 700 -R /path/to/application
 
 3. run the function using commands :
 > sudo /path/to/application/ssh.sh
