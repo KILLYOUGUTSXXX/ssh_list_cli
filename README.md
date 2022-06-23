@@ -11,11 +11,11 @@
 	**For Example :**
 	> ```json
 	 [
-	  { "name": "AWS01", "value": "{PATH_OF_YOUR_PUBLIC_KEY} {REMOTE_USERNAME}@{REMOTE_HOST} -p {REMOTE_PORT}" },
-	]
+	  { "name": "AWS01", "value": "{PATH_OF_YOUR_PUBLIC_KEY} {REMOTE_USERNAME}@{REMOTE_HOST} -p {REMOTE_PORT}" }
+	 ]
 	```
 
-2. Secure file your files :
+2. Secure your files with root accesible :
 >- sudo chown root:root /path/to/application
 >- sudo chmod 700 /path/to/application
 
