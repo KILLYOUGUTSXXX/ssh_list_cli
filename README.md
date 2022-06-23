@@ -13,10 +13,10 @@
 
 	```json
 		[
-			{
-			"name": "AWS01",
-			"value": "{PATH_OF_YOUR_PUBLIC_KEY}{REMOTE_USERNAME}@{REMOTE_HOST} -p {REMOTE_PORT}"
-			}
+		  {
+		    "name": "AWS01",
+		    "value": "{PATH_OF_YOUR_PUBLIC_KEY}{REMOTE_USERNAME}@{REMOTE_HOST} -p {REMOTE_PORT}"
+		  }
 		]
 	```
 
